@@ -1,0 +1,10 @@
+IMPORTANT: Always close files after use
+TODO: Practice reading text files
+NOTE: read() reads the entire file
+IMPORTANT: Handle FileNotFoundError using try-except
+SKIP: Temporary debug statements
+NOTE: readline() reads one line at a time
+TODO: Practice writing to files using write()
+NOTE: append mode ('a') adds content without deleting existing data
+IMPORTANT: Use with open() for automatic file closing
+TODO: Create a simple notes management program

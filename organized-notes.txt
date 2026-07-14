@@ -1,0 +1,6 @@
+IMPORTANT: Always close files after use
+TODO: Practice reading text files
+IMPORTANT: Handle FileNotFoundError using try-except
+TODO: Practice writing to files using write()
+IMPORTANT: Use with open() for automatic file closing
+TODO: Create a simple notes management program
